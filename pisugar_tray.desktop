@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=PiSugarTray
+Exec=/usr/bin/python3 /home/john/Code/pisugar_tray/pisugar_tray.py
