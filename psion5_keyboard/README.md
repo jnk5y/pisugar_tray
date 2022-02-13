@@ -7,3 +7,5 @@ Update /etc/default/keyboard to look like this and reboot:
 XKBLAYOUT="us"
 XKBVARIANT="psion5"
 XKBOPTIONS=""`
+
+Learned a lot here https://www.charvolant.org/doug/xkb/html/node5.html#Sec:SymbolsModifiers and https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions
